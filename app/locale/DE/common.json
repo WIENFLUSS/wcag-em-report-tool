@@ -1,14 +1,14 @@
 {
-    "BROWSER_NOT_SUPPORTED": "The web browser you are using does not support some functionality, such as saving and loading reports. You can continue to use the Report Tool with limited functionality. Update or use a different web browser to make use of all functionality of this report tool.",
-    "WARNING_BEFORE_UNLOAD": "The data you entered is not automatically saved. It will be lost if you close this web browser window. Use the 'Save' link (Ctrl + S or ⌘ S) that is at the top of all pages to save your data in a file locally on your computer, and reload it later to continue working on it.",
-    "MORE_INFO": "For more information, see <a href={{url}}>{{name}}</a>.",
-    "HIDE_MESSAGE": "Hide message",
-    "BTN_INFO": "Info expand",
-    "BTN_CLOSE_INFO": "Close info",
-    "YES": "Yes",
-    "NO": "No",
-    "CLICK_EXPAND": "Click to show section",
-    "CLICK_COLLAPSE": "Click to hide section",
-    "TO_TOP": "Back to top",
-    "ACTIVE": "Active"
+    "BROWSER_NOT_SUPPORTED": "Der verwendete Browser unterstützt nicht alle Funktionen (z.B. das Speichern und Laden von Berichten). Das Tool kann mit eingeschränkter Funktionalität genutzt werden. Um alle Funktionen des Tools zu verwenden bitte den Browser aktualisieren oder einen anderen Browser verwenden.",
+    "WARNING_BEFORE_UNLOAD": "Die eingegebenen Daten werden nicht automatisch gespeichert. Sie gehen verloren sobald das Browser-Fenster geschlossen wird. Über den 'Speichern'-Button (Ctrl + S or ⌘ S) im Seitenkopf können die Daten lokal auf dem Computer gespeichert und zur weiteren Bearbeitung später wieder geladen werden.",
+    "MORE_INFO": "Für weitere Informationen, sh. <a href={{url}}>{{name}}</a>.",
+    "HIDE_MESSAGE": "Nachricht ausblenden",
+    "BTN_INFO": "Info anzeigen",
+    "BTN_CLOSE_INFO": "Info schließen",
+    "YES": "Ja",
+    "NO": "Nein",
+    "CLICK_EXPAND": "Klicken um Abschnitt einzublenden",
+    "CLICK_COLLAPSE": "Klicken um Abschnitt auszublenden",
+    "TO_TOP": "zum Seitenanfang",
+    "ACTIVE": "Aktiv"
 }
