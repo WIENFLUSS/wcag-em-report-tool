@@ -1,9 +1,9 @@
 {
-    "PASSED": "Passed",
-    "FAILED": "Failed",
-    "CANT_TELL": "Cannot tell",
-    "NOT_PRESENT": "Not present",
-    "NOT_CHECKED": "Not checked",
+    "PASSED": "Erfüllt",
+    "FAILED": "Nicht erfüllt",
+    "CANT_TELL": "Nicht erfüllt",
+    "NOT_PRESENT": "Nicht zutreffen",
+    "NOT_CHECKED": "Nicht geprüft",
     "LEVEL_A": "Level A",
     "LEVEL_AA": "Level AA",
     "LEVEL_AAA": "Level AAA"

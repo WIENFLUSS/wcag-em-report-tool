@@ -1,8 +1,8 @@
 {
-    "TITLE": "Website Accessibility Evaluation Report",
-    "INTRO": "Below is the evaluation report based on the input that you provided in previous steps. You can go back to previous steps now and change any of this information. You can download the evaluation data so that you can work on it later. (This is the same as the 'Save' functionality.) <br> This report is intended to be downloaded. You can download the Evaluation Report HTML and CSS files below. You can then change the report content and visual design to meet your needs.",
-    "DOWNLOAD_REPORT": "Download and customize this report",
-    "BTN_SAVE_HTML": "Download the evaluation report (HTML)",
-    "BTN_SAVE_CSS": "Download the report stylesheet (CSS)",
-    "BTN_SAVE_JSON": "Save the evaluation data (JSON)"
+    "TITLE": "Prüfbericht der Webzugänglichkeit",
+    "INTRO": "Untenstehend findet sich der auf den vorherigen Eingaben basierende Prüfbericht. Die Eingaben können über die vorherigen Schritte angepasst werden. Die Prüfdaten können zur späteren Bearbeitung herunter geladen werden (die Daten entsprechen der 'Speichern'-Funktion). <br> Dieser Bericht ist dafür gedacht herunter geladen zu werden. Untenstehend können die HTML und CSS Dateien des Prüfberichts herunter geladen werden. Anschließend kann Inhalt und Darstellung des Berichts angepasst werden.",
+    "DOWNLOAD_REPORT": "Bericht herunter laden und anpassen",
+    "BTN_SAVE_HTML": "Prüfbericht herunter laden (HTML)",
+    "BTN_SAVE_CSS": "Stylesheet des Berichts herunter laden (CSS)",
+    "BTN_SAVE_JSON": "Prüfdaten speichern (JSON)"
 }
