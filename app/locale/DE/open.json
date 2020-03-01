@@ -1,7 +1,7 @@
 {
-    "TITLE": "Open Evaluation Report",
-    "INTRO": "To reload a saved file, click the 'Find and select the data file' button and locate the JSON file that you previously saved.",
-    "LABEL_SELECT_FILE": "Find and select the data file",
-    "MSG_LOADING": "Loading the evaluation, please wait...",
-    "BTN_LOAD_FILE": "Load data from selected file"
+    "TITLE": "Prüfbericht öffnen",
+    "INTRO": "Um einen gespeicherten Bericht zu öffnen, die zuvor gespeicherte JSON Datei über den Button 'Datei suchen und auswählen' laden.",
+    "LABEL_SELECT_FILE": "Datei suchen und auswählen",
+    "MSG_LOADING": "Prüfdaten werden geladen, bitte warten...",
+    "BTN_LOAD_FILE": "Daten aus Datei laden"
 }

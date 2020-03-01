@@ -1,5 +1,5 @@
 {
-    "TITLE": "Import a WCAG EARL report",
-    "INTRO": "If you have used another application to generate a WCAG EARL-report that falls into the scope of this evaluation, you may be able to import these and add them to the evaluation audit result. The file itself should be: JSON-LD parseable, consist of objects in EARL format and evaluation tests should be related to WCAG.",
-    "LABEL_SELECT_FILE": "Select a JSON-LD file"
+    "TITLE": "Bericht im WCAG <abbr title=\"Evaluation and Report Language\">EARL Format</abbr> importieren",
+    "INTRO": "WCAG EARL Ergebnisse, die die aktuelle Evaluierung betreffen und mit einer anderen Applikation erstellt wurden, können importiert und dem Bericht hinzugefügt werden. Die Datei sollte folgende Kriterien erfüllen: JSON-LD Datei mit Objekten im EARL Format die Evaluierungsdaten mit WCAG-Bezug beinhalten.",
+    "LABEL_SELECT_FILE": "Datei auswählen (JSON-LD)"
 }
