@@ -3,11 +3,15 @@
 angular.module('wcagReporter')
   .value('supportedLanguages', [
     {
-    	code: 'en',
-    	localName: 'English'
+      code: 'en',
+      localName: 'English'
     },
     {
-    	code: 'nl',
+      code: 'de',
+      localName: 'German (incomplete)'
+    },
+    {
+      code: 'nl',
       localName: 'Nederlands'
     }
   ])
