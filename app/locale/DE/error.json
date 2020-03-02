@@ -3,6 +3,6 @@
     "INTRO": "Das ist nicht die Seite die Sie erwartet haben. Versuchen Sie eine der folgenden drei Vorschläge um das Problem zu lösen.",
     "SUGGESTION1": "Falls Sie die URL händisch eingegeben haben, überprüfen Sie diese nochmals.",
     "SUGGESTION2": "Gehen Sie <a href={{link_back}}>zurück zur vorherigen Seite</a> und probieren Sie es noch ein Mal.",
-    "SUGGESTION3": "Stellen Sie sicher, dass die verwendeten Dateien dem <a href={{link_format}}>WCAG-EM Format</a> entsprechen.",
+    "SUGGESTION3": "Stellen Sie sicher, dass die verwendeten Dateien dem <a href={{link_format}} href-lang=\"en\">WCAG-EM Format</a> entsprechen.",
     "BUG_REPORT": "Fehler und Verbesserungsvorschläge können auf unserer <a href={{link_github}}>Github Projektseite</a> eingebracht werden."
 }

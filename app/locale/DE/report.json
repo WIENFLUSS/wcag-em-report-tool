@@ -1,6 +1,6 @@
 {
     "TITLE": "Schritt 5: Bericht der Evaluierungsergebnisse",
-    "INTRO": "Provide additional information about the evaluation that you want included in the report. The evaluation findings that you entered in the previous step are included below under 'Detailed audit results' for review and to help you write the executive summary. More guidance on this step is provided in <a href={{link_em_5}}>WCAG-EM Step 5: Report the Evaluation Findings</a>.",
+    "INTRO": "Hier können zusätzliche Informationen über die Evaluierung angeführt werden, die im Bericht enthalten sein sollen. Die Prüfergebnisse aus den vorherigen Schritten sind weiter unten im Bereich 'Detaillierte Prüfergebnisse' zur Kontrolle und als Hilfestellung zur Erstellung der Zusammenfassung angeführt. Weitere Informationen über diesen Prüfschritt finden sich unter: <a href={{link_em_5}} lang=\"en\" href-lang=\"en\">WCAG-EM Step 5: Report the Evaluation Findings</a>.",
     "LABEL_TITLE": "Berichtstitel",
     "TITLE_PREFIX": "Bericht für",
     "INF_TITLE": "Titel für den Web-Zugänglichkeits-Prüfbericht angeben. Zum Beispiel:<br> 'Prüfbericht für die Musterorganisation'<br> 'Webshop Zugänglichkeits-Analyse und Verbesserungsvorschläge'",
@@ -13,6 +13,6 @@
     "LABEL_SUMMARY": "Zusammenfassung",
     "INF_SUMMARY": "Eine kurze Zusammenfassung der Prüfergebnisse um einen Überblick zu geben. Zum Beispiel sollte die allgemeine Zugänglichkeit der Website sowie wesentliche Beobachtung (z.B. wiederkehrende Problem und Muster) angeführt sein.",
     "LABEL_SPECIFICS": "Details der Berichtserstellung (optional)",
-    "INF_SPECIFICS": "WCAG-EM empfiehlt die geprüften Websiten zu archivieren. Weitere Informationen finden sich unter: <a href={{link_em_5b}}>WCAG-EM Step 5.b: Record the Evaluation Specifics</a>. Im nachfolgenden Textfeld können verwendete Prüftools, Browser, Assistive Technologien, zusätzliche Software und die Prüfmethoden dokumentiert werden. Die Informationen werden im generierten Bericht angeführt. Sie können nach dem Download des Berichts im HTML-Format noch bearbeitet oder auch entfernt werden, bevor sie abgegeben werden.",
+    "INF_SPECIFICS": "WCAG-EM empfiehlt die geprüften Websiten zu archivieren. Weitere Informationen finden sich unter: <a href={{link_em_5b}} lang=\"en\" href-lang=\"en\">WCAG-EM Step 5.b: Record the Evaluation Specifics</a>. Im nachfolgenden Textfeld können verwendete Prüftools, Browser, Assistive Technologien, zusätzliche Software und die Prüfmethoden dokumentiert werden. Die Informationen werden im generierten Bericht angeführt. Sie können nach dem Download des Berichts im HTML-Format noch bearbeitet oder auch entfernt werden, bevor sie abgegeben werden.",
     "HD_CRITERIA_REPORT": "Detaillierte Prüfergebnisse"
 }
