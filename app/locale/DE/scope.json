@@ -4,7 +4,7 @@
     "LABEL_SITE_NAME": "Name der Website",
     "INF_SITE_NAME": "Namen der zu evaluierenden Website angeben. Zum Beispiel:<br> 'Öffentliche Website der Musterorganisation'<br> 'Webshop der Beispiel GmbH'<br> 'Intranet der Beispiel-Universität'",
     "LABEL_SITE_SCOPE": "Prüfbereich der Website",
-    "INF_SITE_SCOPE_0": "Prüfimfang für die Website definieren, um klar zu stellen welche Seiten in der Prüfung enthalten sind. Zum Beispiel:",
+    "INF_SITE_SCOPE_0": "Prüfumfang für die Website definieren, um klar zu stellen welche Seiten in der Prüfung enthalten sind. Zum Beispiel:",
     "INF_SITE_SCOPE_LI0": "'Der gesamte Inhalt im öffentlichen Bereich der Website der Musterinstitution, abrufbar unter http://www.musterinstitution.org'",
     "INF_SITE_SCOPE_LI1": "'Der gesamte Inhalt des Online-Shops der Musterinstitution, abrufbar unter http://www.musterinstitution.org/shop/'",
     "INF_SITE_SCOPE_LI2": "'Der gesamte Inhalt der mobilen Website der Musterinstitution, abrufbar unter http://m.musterinstitution.org/'",
@@ -21,6 +21,6 @@
     "INF_EXTRA_REQUIREMENTS_0": "Angabe von weiteren Prüfanforderungen. Zum Beispiel:",
     "INF_EXTRA_REQUIREMENTS_LI0": "'Der Prüfbericht wird eine Liste aller bei der Prüfung gefundenen Probleme beinhalten, nicht nur Beispiele.'",
     "INF_EXTRA_REQUIREMENTS_LI1": "'Der Prüfbericht wird eine Problembeschreibung sowie Hinweise zur Behebung für jedes angeführte Problem beinhalten'",
-    "INF_EXTRA_REQUIREMENTS_LI2": "'Die Evaluierung wied die gesamte Website (Seiten und Inhalte) berücksichtigen und nicht nur eine Stichprobe'",
+    "INF_EXTRA_REQUIREMENTS_LI2": "'Die Evaluierung wie die gesamte Website (Seiten und Inhalte) berücksichtigen und nicht nur eine Stichprobe'",
     "INF_EXTRA_REQUIREMENTS_1": "WCAG-EM Step 1.d: Define Additional Evaluation Requirements"
 }
